@@ -1,0 +1,19 @@
+# Go
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Build output
+/bin/
+/dist/
+
+# OS + editor
+.DS_Store
+.vscode/
+.idea/
+
+# Optional: local env files
+.env
